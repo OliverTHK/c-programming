@@ -11,18 +11,18 @@ int main()
 {
    string pet;         // "cat" or "dog"
    char spayed;        // 'y' or 'n'
-      
+
    // Get pet type and spaying information
    cout << "Enter the pet type (cat or dog): ";
    cin  >> pet;
+   if (pet == "cat" || pet == "dog")
+   {
    cout << "Has the pet been spayed or neutered (y/n)? ";
    cin  >> spayed;
    spayed = tolower(spayed);
-   // Determine the pet tag fee 
-   if (pet == "cat" || pet == "dog")
-   {
+   // Determine the pet tag fee
    if (pet == "cat")
-   {  if (spayed == 'y') 
+   {  if (spayed == 'y')
          cout << "Fee is $4.00 \n";
       else if (spayed == 'n')
          cout << "Fee is $8.00 \n";
@@ -38,8 +38,9 @@ int main()
 		  cout << "Please enter either 'y' or 'n'." ;
    }
    }
-   else
+   else if (pet != "cat" || pet != "dog")
+   {
       cout << "Only cats and dogs need pet tags. \n";
-     
+   }
    return 0;
 }
