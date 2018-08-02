@@ -1,2 +1,2 @@
 # cpp-programming
-This repo contains all my lab tutorials with solutions.
+This repo contains all my c++ projects including lab tutorials with solutions.
