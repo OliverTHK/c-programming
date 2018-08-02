@@ -1,7 +1,7 @@
 // Lab 3 table.cpp
 // This program reads data from a file and
 // prints it in a nicely aligned table.
-// TAN HUNG KHAI
+// Oliver Tan
 
 # include <iostream>
 # include <fstream>// INCLUDE THE FILE NEEDED TO USE FILES.

@@ -1,7 +1,7 @@
 // brownies.cpp
 // WRITE A COMMENT BRIEFLY DESCRIBING THE PROGRAM.
 // TITLE: Brownies Program
-// TAN HUNG KHAI
+// Oliver Tan
 #include <iostream> // INCLUDE THE FILE NEEDED TO DO I/O
 using namespace std;
 

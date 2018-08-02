@@ -1,6 +1,6 @@
 // Lab 3 icecream.cpp
 // WRITE A COMMENT BRIEFLY DESCRIBING THE PROGRAM.
-// TAN HUNG KHAI
+// Oliver Tan
 // INCLUDE ANY NEEDED FILES HERE.
 # include <iostream>
 # include <iomanip>

@@ -2,7 +2,7 @@
 // This program contains many syntax errors and will not compile.
 // Fix the errors so that it correctly finds the average of the
 // two integers the user enters.
-// TAN HUNG KHAI
+// Oliver Tan
 
 #include <iostream>
 #include <iomanip>

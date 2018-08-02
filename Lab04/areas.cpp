@@ -1,6 +1,6 @@
 // Lab 4 areas.cpp 
 // WRITE A COMMENT BRIEFLY DESCRIBING THE PROGRAM.
-// TAN HUNG KHAI
+// Oliver Tan
 // INCLUDE ANY NEEDED FILES HERE.
 #include <iostream>
 #include <string>

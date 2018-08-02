@@ -1,6 +1,6 @@
 // Lab 4 color.cpp
 // This program lets the user select a primary color from a menu. 
-// TAN HUNG KHAI
+// Oliver Tan
 #include <iostream>
 #include <string>
 using namespace std;

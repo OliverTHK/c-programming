@@ -1,6 +1,6 @@
 // findErrors.cpp
 // This program has one syntax error and one logic error. Find and fix them.
-// TAN HUNG KHAI. 
+// Oliver Tan 
 #include <iostream>            
 using namespace std;
 

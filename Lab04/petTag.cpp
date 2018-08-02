@@ -1,7 +1,7 @@
 // Lab 4 petTag.cpp
 // This program determines the fee for a cat or dog pet tag.
 // It uses nested if/else statements.
-// TAN HUNG KHAI
+// Oliver Tan
 #include <iostream>
 #include <string>
 #include <cctype>

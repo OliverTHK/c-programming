@@ -1,7 +1,7 @@
 // Lab 3 percentage.cpp
 // This program will determine the percentage
 // of answers a student got correct on a test.
-// TAN HUNG KHAI
+// Oliver Tan
 
 # include <iostream>  // INCLUDE THE FILE NEEDED TO DO I/O
 # include <iomanip> // INCLUDE THE FILE NEEDED TO FORMAT OUTPUT
